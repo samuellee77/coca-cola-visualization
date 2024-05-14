@@ -1,6 +1,6 @@
 # DSC 106 Project 3
 
-by Samuel Lee, Nian-nian Wang, and Jasmine Hong
+by Samuel Lee, Nian-Nian Wang, and Jasmine Hong
 
 ## Our Dataset
 

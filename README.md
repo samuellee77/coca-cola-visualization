@@ -1,5 +1,7 @@
 # DSC 106 Project 3
 
+by Samuel Lee, Nian-nian Wang, and Jasmine Hong
+
 ## Our Dataset
 
 We used the dataset from [Kaggle](https://www.kaggle.com/datasets/kalilurrahman/coca-cola-stock-live-and-updated?select=Coca-Cola_stock). It is a dataset about the stock price of Coca Cola from 1962 to 2022.

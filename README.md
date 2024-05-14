@@ -1,4 +1,4 @@
-# DSC 106 Project 3
+# Coca-Cola Stock Interactive Visualization
 
 by Samuel Lee, Nian-Nian Wang, and Jasmine Hong
 

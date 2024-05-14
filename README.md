@@ -23,6 +23,10 @@ We decided to use line graph to visualize the data because our data is based on 
 
 ## Development Process
 
+Finding a good dataset to work with was our first challenge. We were first interested in the Yelp review and business dataset. However, after multiple attempts of data cleaning, merging and data exploration, we figured out that due to its size, it may not be the best data to work with.
+
 Samuel worked on parsing the data into the app because we were not able to read the data directly by using `d3.csv()`. Samuel also worked on the overall structure of the website and the line graph. Jasmine worked on the details of the graph including the hovering interactivity and styling and debugging the code. She also worked on the deployment of our website. Nian-Nian helped find and clean the dataset. She also edited and improved the interactivity and UI (eg. graph size, position and button) of our graph as well as contributed to website deployment.
 
-Overall, we spent about 10 hours on the application. Even the seemingly easy tasks were time-consuming for us. The most time-spending part is to create the visualization and integrate the interactivity into our visualization because we are not very familiar with d3 and svelte. We think the development process was challenging but interesting.
+We decided to create 4 separate charts to see the fluctuation in prices over the years for open, close, high, and low. This is because investors care a lot about open and close prices for example. It allows tracing back to open and closing prices for insights into market sentiment and price direction.
+
+Overall, we spent about 10 hours on the application. Even the seemingly easy tasks were time-consuming for us. The most time-consuming part is to create the visualization and integrate the interactivity into our visualization because we are not very familiar with d3 and svelte. We think the development process was challenging but interesting.
